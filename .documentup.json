@@ -1,0 +1,12 @@
+{
+  "name": "Zombie.js",
+  "twitter": "assaf",
+  "travis": true,
+  "pages": {
+    "README.md": "Getting Started",
+    "doc/API.md": "The API",
+    "doc/selectors.md": "CSS Selectors",
+    "doc/troubleshoot.md": "Troubleshooting",
+    "doc/guts.md": "The Guts"
+  }
+}
